@@ -15,9 +15,9 @@ people:
   social:
     - title: instagram
       url: #
-    - title: facebook
+    - title: whatsapp
       url: #
-    - title: stack-overflow
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -35,8 +35,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Ca n'Amat Paradis
+  - line: 08635 Sant Esteve Sesrovires
 
 # Build settings
 markdown: kramdown
