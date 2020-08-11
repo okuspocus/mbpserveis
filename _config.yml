@@ -9,14 +9,14 @@ description: "Reformas, Pintura, Renovacio i Reparacions, Fontaneria, Instalacio
 
 # Team names, titles and social links
 people:
-- name: Moisès Bartual Pont
+- name: Moisès Bartual
   pic: 1
   position: 
   social:
     - title: instagram
       url: #
     - title: whatsapp
-      url: #
+      url: https://wa.me/656891999/?text=urlencodedtext
     - title: linkedin
       url: #
 
