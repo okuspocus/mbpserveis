@@ -4,8 +4,8 @@ subtitle: Barbacoa Exterior
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: barbecue.png
-thumbnail: barbecue-thumbnail.png
+img: /img/portfolio/barbecue.png
+thumbnail: /img/portfolio/barbecue-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
