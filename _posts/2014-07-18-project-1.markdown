@@ -1,11 +1,12 @@
 ---
-title: Barbacoa
-subtitle: Barbacoa Exterior
+title: Pintura i Decoració
+subtitle: Som Pintors
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: barbecue.png
-thumbnail: barbecue-thumbnail.png
+img: pintura.jpg
+img: pintura2.jpg
+thumbnail: pintura-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
