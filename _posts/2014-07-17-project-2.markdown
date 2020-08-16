@@ -4,7 +4,7 @@ subtitle: Renovem espais interiors
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: interiors2.png
+img: interiors3.png
 thumbnail: reformes.png
 alt: image-alt
 project-date: April 2014
