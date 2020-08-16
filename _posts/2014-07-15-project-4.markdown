@@ -1,11 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Fabricació de Portes i Tanques
+subtitle: Si no ho tenim, ho fem.
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: solda2.png
+thumbnail: solda.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
