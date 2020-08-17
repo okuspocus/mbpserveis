@@ -4,7 +4,7 @@ subtitle: Especialistes en Tanques, Pèrgoles, Escales, Acondicionament de Jardi
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
+img: terrasses.png
 thumbnail: exteriors3.png
 alt: image-alt
 project-date: April 2014
