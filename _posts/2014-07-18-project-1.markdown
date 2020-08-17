@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: pintura4.png
-thumbnail: pintura-thumbnail.png
+thumbnail: pintumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
