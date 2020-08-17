@@ -1,6 +1,6 @@
 ---
 title: Exteriors 
-subtitle: Especialistes en Tanques, Pèrgoles, Escales, Acondicionament de Jardins, Impermeabilitzacions, etc...
+subtitle: En som especialistes!
 layout: default
 modal-id: 6
 date: 2014-07-15
